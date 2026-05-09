@@ -192,8 +192,3 @@ Ce qui sera exécuté :
 ---
 
 ## Rapport
-
-Le rapport complet (incluant la justification du choix de structure de données
-pour le résiduel, les preuves d'invariants, les complexités) est dans
-[`RAPPORT.md`](RAPPORT.md) (version Markdown) et [`RAPPORT.pdf`](RAPPORT.pdf)
-(version imprimable).
