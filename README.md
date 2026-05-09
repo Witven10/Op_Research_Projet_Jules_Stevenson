@@ -95,8 +95,7 @@ d'environnement `Path` (typiquement `C:\Program Files\Eclipse Adoptium\jdk-21\bi
 ```
 Op_Research_Projet_Jules_Stevenson/
 ├── README.md                      ← ce fichier
-├── RAPPORT.md                     ← rapport (focus : structure de données du résiduel)
-├── RAPPORT.pdf                    ← même chose, version PDF
+├── RAPPORT.pdf                    ← rapport (focus : structure de données du résiduel) 
 ├── build.sh                       ← script de compilation + exécution (Linux / macOS)
 ├── src/opresearch/
 │   ├── Edge.java                  ← arc + arc inverse lié
