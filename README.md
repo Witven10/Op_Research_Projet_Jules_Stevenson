@@ -1,6 +1,6 @@
 # Op_Research_Projet_Jules_Stevenson
 
-**Auteur :** Jules Stevenson — M1 Informatique DS4H, UCA, 2025-2026
+**Auteur :** Jules Stevenson   M1 Informatique UCA 2025-2026
 
 **Encadrant :** Jean-Charles Régin
 
