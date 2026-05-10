@@ -94,20 +94,20 @@ d'environnement `Path` (typiquement `C:\Program Files\Eclipse Adoptium\jdk-21\bi
 
 ```
 Op_Research_Projet_Jules_Stevenson/
-├── README.md                      ← ce fichier
-├── RAPPORT.pdf                    ← rapport (focus : structure de données du résiduel) 
-├── build.sh                       ← script de compilation + exécution (Linux / macOS)
+├── README.md                                   ← ce fichier
+├── Op_Research_Projet_JULES_Stevenson.pdf      ← rapport (focus : structure de données du résiduel)
+├── build.sh                                    ← script de compilation + exécution (Linux / macOS)
 ├── src/opresearch/
-│   ├── Edge.java                  ← arc + arc inverse lié
-│   ├── Graph.java                 ← liste d'adjacence + parser format prof
-│   ├── FordFulkerson.java         ← max flow + min cut (Edmonds-Karp)
-│   ├── BellmanFord.java           ← plus courts chemins + détection cycle négatif
-│   ├── MinCostFlow.java           ← SSP via Bellman-Ford OU Dijkstra+potentiels
-│   └── Main.java                  ← point d'entrée + tests
+│   ├── Edge.java                               ← arc + arc inverse lié
+│   ├── Graph.java                              ← liste d'adjacence + parser format prof
+│   ├── FordFulkerson.java                      ← max flow + min cut (Edmonds-Karp)
+│   ├── BellmanFord.java                        ← plus courts chemins + détection cycle négatif
+│   ├── MinCostFlow.java                        ← SSP via Bellman-Ford OU Dijkstra+potentiels
+│   └── Main.java                               ← point d'entrée + tests
 └── data/
-    ├── graph_data.txt             ← graphe d'exemple format prof (6 nœuds, 10 arcs)
-    ├── min_cost_example.txt       ← graphe d'exemple min-cost flow du DearStudents.docx
-    └── digraph2.gv                ← fichier graphviz fourni par le prof
+    ├── graph_data.txt                          ← graphe d'exemple format prof (6 nœuds, 10 arcs)
+    ├── min_cost_example.txt                    ← graphe d'exemple min-cost flow du DearStudents.docx
+    └── digraph2.gv                             ← fichier graphviz fourni par le prof
 ```
 
 ---
@@ -192,3 +192,6 @@ Ce qui sera exécuté :
 ---
 
 ## Rapport
+
+Le rapport complet dans le fichier [`Op_Research_Projet_JULES_Stevenson.pdf`](Op_Research_Projet_JULES_Stevenson.pdf)
+à la racine du dépôt.
