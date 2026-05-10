@@ -1,7 +1,9 @@
 # Op_Research_Projet_Jules_Stevenson
 
 **Auteur :** Jules Stevenson — M1 Informatique DS4H, UCA, 2025-2026
+
 **Encadrant :** Jean-Charles Régin
+
 **Langage :** Java 21 (compatible JDK 17+), aucune dépendance externe
 
 > **Rien à modifier dans le code pour exécuter le projet.** Tous les tests sont
